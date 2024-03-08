@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Compras de supermercado",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "tilte": "Lavar los platos",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Sacar la basura",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Aspirar la sala",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Terminar el reporte",
+      "completed": false
+    },
+    {
+      "id": "6",
+      "title": "Regar las plantas",
+      "completed": true
+    },
+    {
+      "id": "7",
+      "title": "Pedir cita médica",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "tilte": "Pagar los recibos",
+      "completed": false
+    },
+    {
+      "id": "9",
+      "tilte": "Limpiar el baño",
+      "completed": false
+    },
+    {
+      "id": "10",
+      "title": "Salir a caminar con el perro",
+      "completed": false
+    }
+  ]
+}
